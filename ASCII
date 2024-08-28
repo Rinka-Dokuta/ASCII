@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main() {
+	cout << "          \/>_________________________________" << endl;
+	cout << " [########[]_________________________________> "<< endl;
+	cout << " 	  \\>" << endl;
